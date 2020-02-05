@@ -1,0 +1,9 @@
+sms:
+    signature: www.jixueit.cn
+
+spring:
+    datasource:
+        driver-class-name: com.mysql.jdbc.Driver
+        url: jdbc:mysql://127.0.0.1:3306/sms1?characterEncoding=UTF-8&serverTimezone=GMT%2B8
+        username: root
+        password: xshdb
